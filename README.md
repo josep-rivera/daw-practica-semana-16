@@ -7,10 +7,10 @@ Proyecto del **Examen Final - SPA con React + Vite**, que consiste en crear una 
 ## 🧩 Información General
 
 - **Nombre del proyecto:** PokeDex Explorer – SPA Evaluación 4 DAW
-- **Repositorio:** [https://github.com/josep-rivera/daw-evaluacion-4](https://github.com/josep-rivera/daw-evaluacion-4)
+- **Repositorio:** https://github.com/josep-rivera/daw-evaluacion-4
 - **Deploy:** https://daw-evaluacion-4.vercel.app
 - **API utilizada:** [PokéAPI v2](https://pokeapi.co/api/v2/)
-
+- **Video demostrativo:** https://youtube.com
 
 ---
 
