@@ -1,12 +1,8 @@
 const Footer = () => {
   return (
-    <footer className="border-t bg-white mt-4">
-      <div className="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row items-center justify-between text-xs sm:text-sm text-slate-500">
-        <p>
-          © {new Date().getFullYear()} PokeDex Explorer. Todos los derechos
-          reservados.
-        </p>
-        <p className="mt-1 sm:mt-0">Hecho para la Evaluación 4 – DAW.</p>
+    <footer className="bg-white/80 backdrop-blur shadow-inner border-t border-transparent mt-10">
+      <div className="max-w-6xl mx-auto px-4 py-5 text-center text-sm text-slate-500">
+        © {new Date().getFullYear()} PokeDex Explorer — Proyecto académico DAW.
       </div>
     </footer>
   );
